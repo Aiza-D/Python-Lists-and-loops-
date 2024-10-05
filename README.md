@@ -1,4 +1,4 @@
-# Lists and loops in Python
+# Lists and Loops in Python
 Basic Lists and Loops Methods in Python Language. 
 # What are Lists?
 A list is a data structure in Python that is a mutable, or changeable, ordered sequence of elements. Each element or value that is inside of a list is called an item. Just as strings are defined as characters between quotes, lists are defined by having values between square brackets      [ ].
